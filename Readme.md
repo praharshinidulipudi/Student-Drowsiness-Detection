@@ -29,7 +29,6 @@ The program monitors facial landmarks and eye blink patterns to determine if the
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your/repository.git
    cd repository-folder
    ```
 
